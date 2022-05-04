@@ -6,7 +6,7 @@
      "PhoneBrand":"Apple",
      "PhoneDescription":"iPhone 13 Pro Max has the biggest Super Retina XDR display and Pro camera system ever. Besides, this phone has the new lightning-fast A15 Bionic chip, and the best battery life ever in an iPhone. Last, the device has a 5G capability.",
      "PhoneCost":"$1,099.99",
-     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/oldrag.jpg",
+     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/iPhone13ProMax.jpg",
      "PhoneColors":"Gold, Silver, Sierra Blue, Alphine Green, and Graphite",
      "PhoneMemory":"128GB, 256GB, 512GB, and 1TB",
      "PhoneWebsite":"https://www.apple.com/iphone-13-pro/"
@@ -16,7 +16,7 @@
      "PhoneBrand":"Samsung",
      "PhoneDescription":"The Samsung Galaxy S22 Ultra has the highest resolution ever on a smartphone with 108MP main camera, 8K video recording, and with an amazing 6.8'' WQHD + Dynamic AMOLED 2X display with 120Hz refresh rate. In addition, the 5000 mAh smart battery will last all day and more with the new terrific 4nm processor, which makes an unique 5G experience. Last, the device brings back the epic embedded SPen for the creativity on the go.",
      "PhoneCost":"$1,199.99",
-     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/oldrag.jpg",
+     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/GalaxyS22Ultra.jpg",
      "PhoneColors":"Phantom Black, Phantom White, Burgundy, and Green",
      "PhoneMemory":"128GB, 256GB, 512GB, and 1TB",
      "PhoneWebsite":"https://www.samsung.com/us/smartphones/galaxy-s22-ultra/"
@@ -26,7 +26,7 @@
      "PhoneBrand":"Samsung",
      "PhoneDescription":"The multitasking screens opens a new world of possibilities with the Samsung Galaxy Z Fold3 5G. The new foldable screen gives you endless gaming, workspace, and cinema experience right in your single hand. When you open the phone it feels like a tablet experience with its 7.6'' 120Hz Dynamic AMOLED 2X Infinity Flex screen. Although, when you close the phone you can sense like a regular smartphone with its sleek 6.2'' cover display. The device presents a Qualcomm Snapdragon 888 5G processor with a RAM of 12GB.",
      "PhoneCost":"$1,799.99",
-     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/oldrag.jpg",
+     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/GalaxyZfold3.jpg",
      "PhoneColors":"Phantom Black, Phantom Green, and Phantom Silver",
      "PhoneMemory":"128GB, and 256GB",
      "PhoneWebsite":"https://www.samsung.com/us/smartphones/galaxy-z-fold3-5g/"
@@ -36,7 +36,7 @@
      "PhoneBrand":"Google",
      "PhoneDescription":"The new Pixel is powered by Google Tensor processor that makes a new era for the fastest and smartest Google pixel ever. Security is importat today, so the next-gen TitanM2TM security chip makes it inpenetrable, for this reason the Pixel 6 Pro protects your personal data and privacy. The new Pixel presents a 6.7-inch Smooth Display which makes an unique responsive screen with adjustable display up to 120Hz. Last, the new Pixel is also 5G capable.",     
      "PhoneCost":"$899.99",
-     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/oldrag.jpg",
+     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/Pixel6Pro.jpg",
      "PhoneColors":"Cloudy White, Sorta Sunny, and Stormy Black",
      "PhoneMemory":"128GB, 256GB, and 512GB",
      "PhoneWebsite":"https://store.google.com/product/pixel_6_pro?gclid=EAIaIQobChMIh9G5iZXW9gIVZciUCR17owrpEAAYAyAAEgLlufD_BwE&gclsrc=aw.ds&hl=en-US"   
@@ -46,7 +46,7 @@
      "PhoneBrand":"One+",
      "PhoneDescription":"The OnePlus 9 Pro 5G is the new flagship of this brand. This phone presents a unique Warp Charge 65T with the new Wreless Warp Charge 50 that brings you a day of power in just 15 minutes of charging. The new 6.7-inch Curved QHD+ AMOLED display with HyperTouch which brings more responsive gaming and cinematic experience for you favorite TV shows.",   
      "PhoneCost":"$729.99",
-     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/oldrag.jpg",
+     "PhoneImage":"https://raw.githubusercontent.com/Jos3Lui/JSONProjectsIT315/master/OnePlus9Pro.jpg",
      "PhoneColors":"Pine Green, and Morning Mist",
      "PhoneMemory":"256GB",
      "PhoneWebsite":"https://www.oneplus.com/global/9-pro"
